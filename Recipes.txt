@@ -1,6 +1,8 @@
 1
 2
-3 welcome to telusko Kitchen
+3 Welcome to Telusko Kitchen
 4
-5 kheer
-6 pasta
+5 Kheer
+6 Pasta
+7 Chicken fry
+8
